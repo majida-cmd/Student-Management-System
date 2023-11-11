@@ -1,0 +1,334 @@
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\navbar.exe.config
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\navbar.exe
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\navbar.pdb
+D:\class\c#\c#\ibra\navbar\navbar\obj\Debug\navbar.csproj.AssemblyReference.cache
+D:\class\c#\c#\ibra\navbar\navbar\obj\Debug\navbar.csproj.SuggestedBindingRedirects.cache
+D:\class\c#\c#\ibra\navbar\navbar\obj\Debug\navbar.Properties.Resources.resources
+D:\class\c#\c#\ibra\navbar\navbar\obj\Debug\navbar.csproj.GenerateResource.cache
+D:\class\c#\c#\ibra\navbar\navbar\obj\Debug\navbar.csproj.CoreCompileInputs.cache
+D:\class\c#\c#\ibra\navbar\navbar\obj\Debug\navbar.csproj.CopyComplete
+D:\class\c#\c#\ibra\navbar\navbar\obj\Debug\navbar.exe
+D:\class\c#\c#\ibra\navbar\navbar\obj\Debug\navbar.pdb
+D:\class\c#\c#\ibra\navbar\navbar\obj\Debug\navbar.FormMainMenu.resources
+D:\class\c#\c#\ibra\navbar\navbar\obj\Debug\navbar.Home.resources
+D:\class\c#\c#\ibra\navbar\navbar\obj\Debug\navbar.Login.resources
+D:\class\c#\c#\ibra\navbar\navbar\obj\Debug\navbar.Setting.resources
+D:\class\c#\c#\ibra\navbar\navbar\obj\Debug\navbar.Table.resources
+D:\class\c#\c#\ibra\navbar\navbar\obj\Debug\navbar.RJTextBox.resources
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\Bunifu.UI.WinForms.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\Microsoft.Win32.Registry.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\Newtonsoft.Json.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\RestSharp.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Buffers.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.CodeDom.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Data.Odbc.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Data.OleDb.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Data.SqlClient.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Diagnostics.EventLog.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Drawing.Common.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.IO.Packaging.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.IO.Ports.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Memory.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Numerics.Vectors.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Security.AccessControl.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Security.Permissions.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Security.Principal.Windows.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.ServiceModel.Syndication.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\class\c#\c#\ibra\navbar\navbar\bin\Debug\System.Threading.AccessControl.xml
+D:\class\c#\c#\ibra\navbar\navbar\obj\Debug\navbar.csproj.Fody.CopyLocal.cache
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\navbar.exe.config
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\navbar.exe
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\navbar.pdb
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\RestSharp.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Buffers.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.CodeDom.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Data.Odbc.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Data.OleDb.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Data.SqlClient.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Drawing.Common.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.IO.Packaging.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.IO.Ports.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Memory.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Security.AccessControl.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Security.Permissions.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.csproj.AssemblyReference.cache
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.csproj.SuggestedBindingRedirects.cache
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.Home.resources
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.Login.resources
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.FormMainMenu.resources
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.RJTextBox.resources
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.Setting.resources
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.Table.resources
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.Properties.Resources.resources
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.csproj.GenerateResource.cache
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.csproj.CoreCompileInputs.cache
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.csproj.Fody.CopyLocal.cache
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.csproj.CopyComplete
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.exe
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.pdb
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.assiduite.resources
+D:\c#\navbar\navbar\navbar\bin\Debug\navbar.exe.config
+D:\c#\navbar\navbar\navbar\bin\Debug\navbar.exe
+D:\c#\navbar\navbar\navbar\bin\Debug\navbar.pdb
+D:\c#\navbar\navbar\navbar\bin\Debug\Bunifu.UI.WinForms.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\Microsoft.Win32.Registry.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\Newtonsoft.Json.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\RestSharp.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Buffers.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.CodeDom.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Data.Odbc.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Data.OleDb.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Data.SqlClient.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Diagnostics.EventLog.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Drawing.Common.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.IO.Packaging.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.IO.Ports.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Memory.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Numerics.Vectors.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Security.AccessControl.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Security.Permissions.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Security.Principal.Windows.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.ServiceModel.Syndication.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\c#\navbar\navbar\navbar\bin\Debug\System.Threading.AccessControl.xml
+D:\c#\navbar\navbar\navbar\obj\Debug\navbar.csproj.AssemblyReference.cache
+D:\c#\navbar\navbar\navbar\obj\Debug\navbar.csproj.SuggestedBindingRedirects.cache
+D:\c#\navbar\navbar\navbar\obj\Debug\navbar.assiduite.resources
+D:\c#\navbar\navbar\navbar\obj\Debug\navbar.Home.resources
+D:\c#\navbar\navbar\navbar\obj\Debug\navbar.Login.resources
+D:\c#\navbar\navbar\navbar\obj\Debug\navbar.FormMainMenu.resources
+D:\c#\navbar\navbar\navbar\obj\Debug\navbar.RJTextBox.resources
+D:\c#\navbar\navbar\navbar\obj\Debug\navbar.Setting.resources
+D:\c#\navbar\navbar\navbar\obj\Debug\navbar.Table.resources
+D:\c#\navbar\navbar\navbar\obj\Debug\navbar.Properties.Resources.resources
+D:\c#\navbar\navbar\navbar\obj\Debug\navbar.csproj.GenerateResource.cache
+D:\c#\navbar\navbar\navbar\obj\Debug\navbar.csproj.CoreCompileInputs.cache
+D:\c#\navbar\navbar\navbar\obj\Debug\navbar.csproj.Fody.CopyLocal.cache
+D:\c#\navbar\navbar\navbar\obj\Debug\navbar.csproj.CopyComplete
+D:\c#\navbar\navbar\navbar\obj\Debug\navbar.exe
+D:\c#\navbar\navbar\navbar\obj\Debug\navbar.pdb
+D:\c#\navbar\navbar\navbar\obj\Debug\navbar.FormLogin.resources
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\navbar.exe.config
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\navbar.exe
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\navbar.pdb
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\RestSharp.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Buffers.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.CodeDom.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Data.Odbc.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Data.OleDb.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Data.SqlClient.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Drawing.Common.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.IO.Packaging.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.IO.Ports.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Memory.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Security.AccessControl.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Security.Permissions.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\obj\Debug\navbar.csproj.AssemblyReference.cache
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\obj\Debug\navbar.csproj.SuggestedBindingRedirects.cache
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\obj\Debug\navbar.assiduite.resources
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\obj\Debug\navbar.FormLogin.resources
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\obj\Debug\navbar.Home.resources
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\obj\Debug\navbar.Login.resources
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\obj\Debug\navbar.FormMainMenu.resources
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\obj\Debug\navbar.RJTextBox.resources
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\obj\Debug\navbar.Setting.resources
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\obj\Debug\navbar.Table.resources
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\obj\Debug\navbar.Properties.Resources.resources
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\obj\Debug\navbar.csproj.GenerateResource.cache
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\obj\Debug\navbar.csproj.CoreCompileInputs.cache
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\obj\Debug\navbar.csproj.Fody.CopyLocal.cache
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\obj\Debug\navbar.csproj.CopyComplete
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\obj\Debug\navbar.exe
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\obj\Debug\navbar.pdb
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\obj\Debug\navbar.FormUpdate.resources
+C:\Users\HUAWAI\OneDrive\Bureau\navbar\navbar\navbar\obj\Debug\navbar.UpdateForm.resources
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\navbar.exe.config
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\navbar.exe
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\navbar.pdb
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\RestSharp.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Buffers.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.CodeDom.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Data.Odbc.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Data.OleDb.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Data.SqlClient.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Drawing.Common.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.IO.Packaging.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.IO.Ports.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Memory.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Security.AccessControl.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Security.Permissions.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.csproj.AssemblyReference.cache
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.csproj.SuggestedBindingRedirects.cache
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.assiduite.resources
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.FormLogin.resources
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.Home.resources
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.Login.resources
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.FormMainMenu.resources
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.RJTextBox.resources
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.Setting.resources
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.Table.resources
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.Properties.Resources.resources
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.csproj.GenerateResource.cache
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.csproj.CoreCompileInputs.cache
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.csproj.Fody.CopyLocal.cache
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.csproj.CopyComplete
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.exe
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.pdb
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\navbar.exe.config
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\navbar.exe
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\navbar.pdb
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\Bunifu.UI.WinForms.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\Microsoft.Win32.Registry.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\Newtonsoft.Json.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\RestSharp.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Buffers.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.CodeDom.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Data.Odbc.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Data.OleDb.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Data.SqlClient.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Diagnostics.EventLog.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Drawing.Common.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.IO.Packaging.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.IO.Ports.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Memory.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Numerics.Vectors.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Security.AccessControl.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Security.Permissions.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Security.Principal.Windows.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.ServiceModel.Syndication.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\bin\Debug\System.Threading.AccessControl.xml
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.csproj.AssemblyReference.cache
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.csproj.SuggestedBindingRedirects.cache
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.note.resources
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.UpdateForm.resources
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.assiduite.resources
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.FormLogin.resources
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.FormUpdate.resources
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.Home.resources
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.Login.resources
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.FormMainMenu.resources
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.RJTextBox.resources
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.Setting.resources
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.Table.resources
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.Properties.Resources.resources
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.csproj.GenerateResource.cache
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.csproj.CoreCompileInputs.cache
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.csproj.Fody.CopyLocal.cache
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.csproj.CopyComplete
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.exe
+D:\class\c#\c#\ibra\navbar\navbar\navbar\obj\Debug\navbar.pdb
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.note.resources
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.UpdateForm.resources
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.FormLogin.resources
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.gestiondesDonnees.resources
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.assiduiteADM.resources
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.FormEtudiant.resources
+C:\Users\HUAWAI\Downloads\navbar\navbar\navbar\obj\Debug\navbar.etProfile.resources
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.assiduiteADM.resources
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.etProfile.resources
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.FormEtudiant.resources
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.updateForm.resources
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.noteADM.resources
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.programme.resources
+C:\Users\HUAWAI\OneDrive\Bureau\C# majda\navbar\navbar\navbar\obj\Debug\navbar.Etnote.resources
