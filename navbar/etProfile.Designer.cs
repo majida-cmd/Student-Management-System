@@ -30,8 +30,6 @@
         {
             this.ShowPsw = new Guna.UI2.WinForms.Guna2CheckBox();
             this.guna2TextBox4 = new Guna.UI2.WinForms.Guna2TextBox();
-            this.guna2HtmlLabel5 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.guna2HtmlLabel8 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel9 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel6 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.label1 = new System.Windows.Forms.Label();
@@ -42,6 +40,8 @@
             this.rjTextBox3 = new navbar.RJTextBox();
             this.rjTextBox2 = new navbar.RJTextBox();
             this.rjTextBox1 = new navbar.RJTextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // ShowPsw
@@ -98,62 +98,34 @@
             this.guna2TextBox4.Style = Guna.UI2.WinForms.Enums.TextBoxStyle.Material;
             this.guna2TextBox4.TabIndex = 69;
             // 
-            // guna2HtmlLabel5
-            // 
-            this.guna2HtmlLabel5.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.guna2HtmlLabel5.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel5.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2HtmlLabel5.ForeColor = System.Drawing.Color.Gainsboro;
-            this.guna2HtmlLabel5.Location = new System.Drawing.Point(396, 415);
-            this.guna2HtmlLabel5.Name = "guna2HtmlLabel5";
-            this.guna2HtmlLabel5.Padding = new System.Windows.Forms.Padding(20);
-            this.guna2HtmlLabel5.Size = new System.Drawing.Size(179, 67);
-            this.guna2HtmlLabel5.TabIndex = 72;
-            this.guna2HtmlLabel5.Text = "New password :";
-            this.guna2HtmlLabel5.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // guna2HtmlLabel8
-            // 
-            this.guna2HtmlLabel8.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.guna2HtmlLabel8.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel8.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2HtmlLabel8.ForeColor = System.Drawing.Color.Gainsboro;
-            this.guna2HtmlLabel8.Location = new System.Drawing.Point(326, 502);
-            this.guna2HtmlLabel8.Name = "guna2HtmlLabel8";
-            this.guna2HtmlLabel8.Padding = new System.Windows.Forms.Padding(20);
-            this.guna2HtmlLabel8.Size = new System.Drawing.Size(255, 67);
-            this.guna2HtmlLabel8.TabIndex = 73;
-            this.guna2HtmlLabel8.Text = "Confirm your password :";
-            this.guna2HtmlLabel8.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // guna2HtmlLabel9
             // 
             this.guna2HtmlLabel9.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.guna2HtmlLabel9.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel9.Font = new System.Drawing.Font("Microsoft Tai Le", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2HtmlLabel9.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(138)))), ((int)(((byte)(114)))));
-            this.guna2HtmlLabel9.Location = new System.Drawing.Point(906, 427);
+            this.guna2HtmlLabel9.Location = new System.Drawing.Point(871, 447);
             this.guna2HtmlLabel9.Name = "guna2HtmlLabel9";
-            this.guna2HtmlLabel9.Padding = new System.Windows.Forms.Padding(15);
-            this.guna2HtmlLabel9.Size = new System.Drawing.Size(130, 55);
+            this.guna2HtmlLabel9.Padding = new System.Windows.Forms.Padding(5);
+            this.guna2HtmlLabel9.Size = new System.Drawing.Size(122, 38);
             this.guna2HtmlLabel9.TabIndex = 74;
             this.guna2HtmlLabel9.Text = "Empty field";
-            this.guna2HtmlLabel9.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
+            this.guna2HtmlLabel9.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             this.guna2HtmlLabel9.Click += new System.EventHandler(this.guna2HtmlLabel9_Click);
             // 
             // guna2HtmlLabel6
             // 
             this.guna2HtmlLabel6.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.guna2HtmlLabel6.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel6.Font = new System.Drawing.Font("Microsoft Tai Le", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2HtmlLabel6.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(138)))), ((int)(((byte)(114)))));
-            this.guna2HtmlLabel6.Location = new System.Drawing.Point(897, 512);
+            this.guna2HtmlLabel6.Location = new System.Drawing.Point(860, 524);
             this.guna2HtmlLabel6.Name = "guna2HtmlLabel6";
-            this.guna2HtmlLabel6.Padding = new System.Windows.Forms.Padding(20, 20, 30, 30);
-            this.guna2HtmlLabel6.Size = new System.Drawing.Size(249, 75);
+            this.guna2HtmlLabel6.Padding = new System.Windows.Forms.Padding(10);
+            this.guna2HtmlLabel6.Size = new System.Drawing.Size(242, 48);
             this.guna2HtmlLabel6.TabIndex = 75;
             this.guna2HtmlLabel6.Text = "Passwords don\'t match";
-            this.guna2HtmlLabel6.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
+            this.guna2HtmlLabel6.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             this.guna2HtmlLabel6.Click += new System.EventHandler(this.guna2HtmlLabel6_Click);
             // 
             // label1
@@ -271,7 +243,7 @@
             this.rjTextBox2.BorderSize = 2;
             this.rjTextBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rjTextBox2.ForeColor = System.Drawing.Color.Gainsboro;
-            this.rjTextBox2.Location = new System.Drawing.Point(583, 502);
+            this.rjTextBox2.Location = new System.Drawing.Point(568, 512);
             this.rjTextBox2.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);
             this.rjTextBox2.Multiline = false;
             this.rjTextBox2.Name = "rjTextBox2";
@@ -295,7 +267,7 @@
             this.rjTextBox1.BorderSize = 2;
             this.rjTextBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rjTextBox1.ForeColor = System.Drawing.Color.Gainsboro;
-            this.rjTextBox1.Location = new System.Drawing.Point(583, 414);
+            this.rjTextBox1.Location = new System.Drawing.Point(568, 437);
             this.rjTextBox1.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);
             this.rjTextBox1.Multiline = false;
             this.rjTextBox1.Name = "rjTextBox1";
@@ -309,19 +281,43 @@
             this.rjTextBox1.UnderlinedStyle = true;
             this.rjTextBox1._TextChanged += new System.EventHandler(this.rjTextBox1__TextChanged);
             // 
+            // label4
+            // 
+            this.label4.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.ForeColor = System.Drawing.Color.Gainsboro;
+            this.label4.Location = new System.Drawing.Point(407, 460);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(165, 25);
+            this.label4.TabIndex = 78;
+            this.label4.Text = "New password :";
+            // 
+            // label5
+            // 
+            this.label5.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.ForeColor = System.Drawing.Color.Gainsboro;
+            this.label5.Location = new System.Drawing.Point(326, 536);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(246, 25);
+            this.label5.TabIndex = 79;
+            this.label5.Text = "Confirm your password :";
+            // 
             // etProfile
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(33)))), ((int)(((byte)(74)))));
             this.ClientSize = new System.Drawing.Size(1201, 655);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.guna2HtmlLabel6);
             this.Controls.Add(this.guna2HtmlLabel9);
-            this.Controls.Add(this.guna2HtmlLabel8);
-            this.Controls.Add(this.guna2HtmlLabel5);
             this.Controls.Add(this.rjButton1);
             this.Controls.Add(this.rjButton2);
             this.Controls.Add(this.guna2TextBox4);
@@ -347,12 +343,12 @@
         private Guna.UI2.WinForms.Guna2TextBox guna2TextBox4;
         private rjButton rjButton2;
         private rjButton rjButton1;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel5;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel8;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel9;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel6;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label5;
     }
 }

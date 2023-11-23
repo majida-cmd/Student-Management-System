@@ -22,8 +22,8 @@ namespace navbar
 
         private void etProfile_Load(object sender, EventArgs e)
         {
-            guna2HtmlLabel5.Visible = false;
-            guna2HtmlLabel8.Visible = false;
+            label4.Visible = false;
+            label5.Visible = false;
             guna2HtmlLabel6.Visible = false;
             guna2HtmlLabel9.Visible = false;
             rjButton1.Visible = false;
@@ -100,8 +100,8 @@ namespace navbar
 
         private void rjButton2_Click(object sender, EventArgs e)
         {
-            guna2HtmlLabel5.Visible = true;
-            guna2HtmlLabel8.Visible = true;
+            label4.Visible = true;
+            label5.Visible = true;
             rjTextBox1.Visible = true;
             rjTextBox2.Visible = true;
             rjButton1.Visible=true;
@@ -119,10 +119,10 @@ namespace navbar
             int r = database.insert(query);
             //textBox1.Text=query;
             guna2TextBox4.Text = rjTextBox2.Texts;
-            guna2HtmlLabel8.Visible = false;
+            label4.Visible = false;
             guna2HtmlLabel6.Visible = false;
             guna2HtmlLabel9.Visible = false;
-            guna2HtmlLabel5.Visible = false;
+            label5.Visible = false;
             rjTextBox1.Visible = false;
             rjTextBox2.Visible = false;
             rjButton1.Visible=false;
@@ -178,6 +178,11 @@ namespace navbar
         }
 
         private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2HtmlLabel5_Click(object sender, EventArgs e)
         {
 
         }
