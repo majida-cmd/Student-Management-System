@@ -35,12 +35,6 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             this.guna2DataGridView1 = new Guna.UI2.WinForms.Guna2DataGridView();
-            this.Nom = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Prenom = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Niveau = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Niveau_scolaire = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Filiere = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Annee_scolaire = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.guna2ComboBox1 = new Guna.UI2.WinForms.Guna2ComboBox();
             this.guna2ComboBox2 = new Guna.UI2.WinForms.Guna2ComboBox();
             this.guna2ComboBox3 = new Guna.UI2.WinForms.Guna2ComboBox();
@@ -59,6 +53,12 @@
             this.guna2ComboBox7 = new Guna.UI2.WinForms.Guna2ComboBox();
             this.label7 = new System.Windows.Forms.Label();
             this.guna2DataGridView2 = new Guna.UI2.WinForms.Guna2DataGridView();
+            this.Nom = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Prenom = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Niveau = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Niveau_scolaire = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Filiere = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Annee_scolaire = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Nom_et = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Prenom_et = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Matieres = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -130,42 +130,6 @@
             this.guna2DataGridView1.ThemeStyle.RowsStyle.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(123)))), ((int)(((byte)(207)))));
             this.guna2DataGridView1.ThemeStyle.RowsStyle.SelectionForeColor = System.Drawing.Color.Black;
             this.guna2DataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.guna2DataGridView1_CellContentClick);
-            // 
-            // Nom
-            // 
-            this.Nom.HeaderText = "Nom";
-            this.Nom.MinimumWidth = 6;
-            this.Nom.Name = "Nom";
-            // 
-            // Prenom
-            // 
-            this.Prenom.HeaderText = "Prenom";
-            this.Prenom.MinimumWidth = 6;
-            this.Prenom.Name = "Prenom";
-            // 
-            // Niveau
-            // 
-            this.Niveau.HeaderText = "Niveau";
-            this.Niveau.MinimumWidth = 6;
-            this.Niveau.Name = "Niveau";
-            // 
-            // Niveau_scolaire
-            // 
-            this.Niveau_scolaire.HeaderText = "Niveau_scolaire";
-            this.Niveau_scolaire.MinimumWidth = 6;
-            this.Niveau_scolaire.Name = "Niveau_scolaire";
-            // 
-            // Filiere
-            // 
-            this.Filiere.HeaderText = "Filiere";
-            this.Filiere.MinimumWidth = 6;
-            this.Filiere.Name = "Filiere";
-            // 
-            // Annee_scolaire
-            // 
-            this.Annee_scolaire.HeaderText = "Annee_scolaire";
-            this.Annee_scolaire.MinimumWidth = 6;
-            this.Annee_scolaire.Name = "Annee_scolaire";
             // 
             // guna2ComboBox1
             // 
@@ -272,9 +236,9 @@
             this.label1.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label1.Location = new System.Drawing.Point(12, 252);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(122, 23);
+            this.label1.Size = new System.Drawing.Size(65, 23);
             this.label1.TabIndex = 6;
-            this.label1.Text = "Nom_etudiant";
+            this.label1.Text = "LName";
             // 
             // label2
             // 
@@ -283,9 +247,9 @@
             this.label2.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label2.Location = new System.Drawing.Point(267, 250);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(144, 23);
+            this.label2.Size = new System.Drawing.Size(66, 23);
             this.label2.TabIndex = 7;
-            this.label2.Text = "Prenom_etudiant";
+            this.label2.Text = "FName";
             // 
             // label3
             // 
@@ -294,9 +258,9 @@
             this.label3.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label3.Location = new System.Drawing.Point(12, 329);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(64, 23);
+            this.label3.Size = new System.Drawing.Size(67, 23);
             this.label3.TabIndex = 8;
-            this.label3.Text = "Niveau";
+            this.label3.Text = "Degree";
             // 
             // label4
             // 
@@ -305,9 +269,9 @@
             this.label4.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label4.Location = new System.Drawing.Point(520, 250);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(55, 23);
+            this.label4.Size = new System.Drawing.Size(47, 23);
             this.label4.TabIndex = 9;
-            this.label4.Text = "Filiere";
+            this.label4.Text = "Field";
             // 
             // label5
             // 
@@ -316,9 +280,9 @@
             this.label5.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label5.Location = new System.Drawing.Point(520, 327);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(126, 23);
+            this.label5.Size = new System.Drawing.Size(102, 23);
             this.label5.TabIndex = 10;
-            this.label5.Text = "Annee_scolaire";
+            this.label5.Text = "School year";
             // 
             // guna2TextBox1
             // 
@@ -339,7 +303,7 @@
             this.guna2TextBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.guna2TextBox1.Name = "guna2TextBox1";
             this.guna2TextBox1.PasswordChar = '\0';
-            this.guna2TextBox1.PlaceholderText = "Note_exam";
+            this.guna2TextBox1.PlaceholderText = "Exam score";
             this.guna2TextBox1.SelectedText = "";
             this.guna2TextBox1.Size = new System.Drawing.Size(229, 36);
             this.guna2TextBox1.TabIndex = 11;
@@ -380,7 +344,7 @@
             this.guna2TextBox2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.guna2TextBox2.Name = "guna2TextBox2";
             this.guna2TextBox2.PasswordChar = '\0';
-            this.guna2TextBox2.PlaceholderText = "Note_controle";
+            this.guna2TextBox2.PlaceholderText = "Test score";
             this.guna2TextBox2.SelectedText = "";
             this.guna2TextBox2.Size = new System.Drawing.Size(229, 36);
             this.guna2TextBox2.TabIndex = 13;
@@ -392,9 +356,9 @@
             this.label6.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label6.Location = new System.Drawing.Point(267, 327);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(130, 23);
+            this.label6.Size = new System.Drawing.Size(105, 23);
             this.label6.TabIndex = 15;
-            this.label6.Text = "Niveau_scolaire";
+            this.label6.Text = "Degree year";
             // 
             // guna2ComboBox6
             // 
@@ -441,9 +405,9 @@
             this.label7.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label7.Location = new System.Drawing.Point(779, 250);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(69, 23);
+            this.label7.Size = new System.Drawing.Size(68, 23);
             this.label7.TabIndex = 18;
-            this.label7.Text = "Matiere";
+            this.label7.Text = "Subject";
             // 
             // guna2DataGridView2
             // 
@@ -506,39 +470,75 @@
             this.guna2DataGridView2.ThemeStyle.RowsStyle.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(123)))), ((int)(((byte)(207)))));
             this.guna2DataGridView2.ThemeStyle.RowsStyle.SelectionForeColor = System.Drawing.Color.Black;
             // 
+            // Nom
+            // 
+            this.Nom.HeaderText = "Last name";
+            this.Nom.MinimumWidth = 6;
+            this.Nom.Name = "Nom";
+            // 
+            // Prenom
+            // 
+            this.Prenom.HeaderText = "First name";
+            this.Prenom.MinimumWidth = 6;
+            this.Prenom.Name = "Prenom";
+            // 
+            // Niveau
+            // 
+            this.Niveau.HeaderText = "Degree";
+            this.Niveau.MinimumWidth = 6;
+            this.Niveau.Name = "Niveau";
+            // 
+            // Niveau_scolaire
+            // 
+            this.Niveau_scolaire.HeaderText = "Degree year";
+            this.Niveau_scolaire.MinimumWidth = 6;
+            this.Niveau_scolaire.Name = "Niveau_scolaire";
+            // 
+            // Filiere
+            // 
+            this.Filiere.HeaderText = "Field";
+            this.Filiere.MinimumWidth = 6;
+            this.Filiere.Name = "Filiere";
+            // 
+            // Annee_scolaire
+            // 
+            this.Annee_scolaire.HeaderText = "School year";
+            this.Annee_scolaire.MinimumWidth = 6;
+            this.Annee_scolaire.Name = "Annee_scolaire";
+            // 
             // Nom_et
             // 
-            this.Nom_et.HeaderText = "Nom_et";
+            this.Nom_et.HeaderText = "Last name";
             this.Nom_et.MinimumWidth = 6;
             this.Nom_et.Name = "Nom_et";
             // 
             // Prenom_et
             // 
-            this.Prenom_et.HeaderText = "Prenom_et";
+            this.Prenom_et.HeaderText = "First name";
             this.Prenom_et.MinimumWidth = 6;
             this.Prenom_et.Name = "Prenom_et";
             // 
             // Matieres
             // 
-            this.Matieres.HeaderText = "Matieres";
+            this.Matieres.HeaderText = "Subject";
             this.Matieres.MinimumWidth = 6;
             this.Matieres.Name = "Matieres";
             // 
             // Note_exam
             // 
-            this.Note_exam.HeaderText = "Note_exam";
+            this.Note_exam.HeaderText = "Exam score";
             this.Note_exam.MinimumWidth = 6;
             this.Note_exam.Name = "Note_exam";
             // 
             // Note_controle
             // 
-            this.Note_controle.HeaderText = "Note_controle";
+            this.Note_controle.HeaderText = "Test score";
             this.Note_controle.MinimumWidth = 6;
             this.Note_controle.Name = "Note_controle";
             // 
             // Note_generale
             // 
-            this.Note_generale.HeaderText = "Note_generale";
+            this.Note_generale.HeaderText = "Final score";
             this.Note_generale.MinimumWidth = 6;
             this.Note_generale.Name = "Note_generale";
             // 
@@ -600,17 +600,17 @@
         private Guna.UI2.WinForms.Guna2ComboBox guna2ComboBox7;
         private System.Windows.Forms.Label label7;
         private Guna.UI2.WinForms.Guna2DataGridView guna2DataGridView2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Nom_et;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Prenom_et;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Matieres;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Note_exam;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Note_controle;
         private System.Windows.Forms.DataGridViewTextBoxColumn Nom;
         private System.Windows.Forms.DataGridViewTextBoxColumn Prenom;
         private System.Windows.Forms.DataGridViewTextBoxColumn Niveau;
         private System.Windows.Forms.DataGridViewTextBoxColumn Niveau_scolaire;
         private System.Windows.Forms.DataGridViewTextBoxColumn Filiere;
         private System.Windows.Forms.DataGridViewTextBoxColumn Annee_scolaire;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Nom_et;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Prenom_et;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Matieres;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Note_exam;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Note_controle;
         private System.Windows.Forms.DataGridViewTextBoxColumn Note_generale;
     }
 }

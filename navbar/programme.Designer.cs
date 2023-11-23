@@ -69,9 +69,9 @@
             this.label12.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label12.Location = new System.Drawing.Point(678, 262);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(126, 23);
+            this.label12.Size = new System.Drawing.Size(111, 23);
             this.label12.TabIndex = 43;
-            this.label12.Text = "Annee_scolaire";
+            this.label12.Text = "School year :";
             // 
             // label11
             // 
@@ -80,9 +80,9 @@
             this.label11.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label11.Location = new System.Drawing.Point(678, 147);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(69, 23);
+            this.label11.Size = new System.Drawing.Size(77, 23);
             this.label11.TabIndex = 42;
-            this.label11.Text = "Matiere";
+            this.label11.Text = "Subject :";
             // 
             // label10
             // 
@@ -91,9 +91,9 @@
             this.label10.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label10.Location = new System.Drawing.Point(330, 381);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(55, 23);
+            this.label10.Size = new System.Drawing.Size(56, 23);
             this.label10.TabIndex = 41;
-            this.label10.Text = "Filiere";
+            this.label10.Text = "Field :";
             // 
             // label9
             // 
@@ -102,9 +102,9 @@
             this.label9.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label9.Location = new System.Drawing.Point(330, 264);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(130, 23);
+            this.label9.Size = new System.Drawing.Size(114, 23);
             this.label9.TabIndex = 40;
-            this.label9.Text = "Niveau_scolaire";
+            this.label9.Text = "Degree year :";
             // 
             // label8
             // 
@@ -113,9 +113,9 @@
             this.label8.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label8.Location = new System.Drawing.Point(330, 147);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(64, 23);
+            this.label8.Size = new System.Drawing.Size(76, 23);
             this.label8.TabIndex = 39;
-            this.label8.Text = "Niveau";
+            this.label8.Text = "Degree :";
             // 
             // guna2ComboBox11
             // 
@@ -230,7 +230,7 @@
             this.guna2TextBox4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.guna2TextBox4.Name = "guna2TextBox4";
             this.guna2TextBox4.PasswordChar = '\0';
-            this.guna2TextBox4.PlaceholderText = "Coeff_controle";
+            this.guna2TextBox4.PlaceholderText = "Test coefficient";
             this.guna2TextBox4.SelectedText = "";
             this.guna2TextBox4.Size = new System.Drawing.Size(224, 36);
             this.guna2TextBox4.TabIndex = 33;
@@ -254,12 +254,12 @@
             this.guna2TextBox3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.guna2TextBox3.Name = "guna2TextBox3";
             this.guna2TextBox3.PasswordChar = '\0';
-            this.guna2TextBox3.PlaceholderText = "Coeff_exam";
+            this.guna2TextBox3.PlaceholderText = "Exam coefficient";
             this.guna2TextBox3.SelectedText = "";
             this.guna2TextBox3.Size = new System.Drawing.Size(220, 36);
             this.guna2TextBox3.TabIndex = 32;
             // 
-            // note
+            // programme
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -281,7 +281,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Location = new System.Drawing.Point(293, 86);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.Name = "note";
+            this.Name = "programme";
             this.Text = "Note";
             this.Load += new System.EventHandler(this.note_Load);
             this.ResumeLayout(false);

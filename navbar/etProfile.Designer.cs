@@ -103,12 +103,12 @@
             this.guna2HtmlLabel5.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel5.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel5.ForeColor = System.Drawing.Color.Gainsboro;
-            this.guna2HtmlLabel5.Location = new System.Drawing.Point(361, 355);
+            this.guna2HtmlLabel5.Location = new System.Drawing.Point(397, 356);
             this.guna2HtmlLabel5.Name = "guna2HtmlLabel5";
             this.guna2HtmlLabel5.Padding = new System.Windows.Forms.Padding(20);
-            this.guna2HtmlLabel5.Size = new System.Drawing.Size(177, 67);
+            this.guna2HtmlLabel5.Size = new System.Drawing.Size(179, 67);
             this.guna2HtmlLabel5.TabIndex = 72;
-            this.guna2HtmlLabel5.Text = "Nouveau mdp :";
+            this.guna2HtmlLabel5.Text = "New password :";
             this.guna2HtmlLabel5.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // guna2HtmlLabel8
@@ -117,12 +117,12 @@
             this.guna2HtmlLabel8.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel8.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel8.ForeColor = System.Drawing.Color.Gainsboro;
-            this.guna2HtmlLabel8.Location = new System.Drawing.Point(337, 443);
+            this.guna2HtmlLabel8.Location = new System.Drawing.Point(327, 443);
             this.guna2HtmlLabel8.Name = "guna2HtmlLabel8";
             this.guna2HtmlLabel8.Padding = new System.Windows.Forms.Padding(20);
-            this.guna2HtmlLabel8.Size = new System.Drawing.Size(238, 67);
+            this.guna2HtmlLabel8.Size = new System.Drawing.Size(255, 67);
             this.guna2HtmlLabel8.TabIndex = 73;
-            this.guna2HtmlLabel8.Text = "Confirmez votre mdp :";
+            this.guna2HtmlLabel8.Text = "Confirm your password :";
             this.guna2HtmlLabel8.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // guna2HtmlLabel9
@@ -131,13 +131,14 @@
             this.guna2HtmlLabel9.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel9.Font = new System.Drawing.Font("Microsoft Tai Le", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(138)))), ((int)(((byte)(114)))));
-            this.guna2HtmlLabel9.Location = new System.Drawing.Point(926, 368);
+            this.guna2HtmlLabel9.Location = new System.Drawing.Point(907, 368);
             this.guna2HtmlLabel9.Name = "guna2HtmlLabel9";
             this.guna2HtmlLabel9.Padding = new System.Windows.Forms.Padding(15);
-            this.guna2HtmlLabel9.Size = new System.Drawing.Size(133, 55);
+            this.guna2HtmlLabel9.Size = new System.Drawing.Size(130, 55);
             this.guna2HtmlLabel9.TabIndex = 74;
-            this.guna2HtmlLabel9.Text = "Champ vide ";
+            this.guna2HtmlLabel9.Text = "Empty field";
             this.guna2HtmlLabel9.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
+            this.guna2HtmlLabel9.Click += new System.EventHandler(this.guna2HtmlLabel9_Click);
             // 
             // guna2HtmlLabel6
             // 
@@ -145,7 +146,7 @@
             this.guna2HtmlLabel6.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel6.Font = new System.Drawing.Font("Microsoft Tai Le", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(138)))), ((int)(((byte)(114)))));
-            this.guna2HtmlLabel6.Location = new System.Drawing.Point(901, 443);
+            this.guna2HtmlLabel6.Location = new System.Drawing.Point(898, 453);
             this.guna2HtmlLabel6.Name = "guna2HtmlLabel6";
             this.guna2HtmlLabel6.Padding = new System.Windows.Forms.Padding(20, 20, 30, 30);
             this.guna2HtmlLabel6.Size = new System.Drawing.Size(249, 75);
@@ -162,9 +163,9 @@
             this.label1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label1.Location = new System.Drawing.Point(479, 55);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(134, 32);
+            this.label1.Size = new System.Drawing.Size(132, 32);
             this.label1.TabIndex = 76;
-            this.label1.Text = "Bienvenu";
+            this.label1.Text = "Welcome";
             // 
             // label2
             // 
@@ -228,7 +229,7 @@
             this.rjButton2.Padding = new System.Windows.Forms.Padding(2);
             this.rjButton2.Size = new System.Drawing.Size(243, 44);
             this.rjButton2.TabIndex = 70;
-            this.rjButton2.Text = "Modifier votre mdp?";
+            this.rjButton2.Text = "Edit your password?";
             this.rjButton2.TextColor = System.Drawing.Color.Gainsboro;
             this.rjButton2.UseVisualStyleBackColor = false;
             this.rjButton2.Click += new System.EventHandler(this.rjButton2_Click);

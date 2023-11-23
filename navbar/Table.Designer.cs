@@ -34,7 +34,8 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
             this.guna2DataGridView1 = new Guna.UI2.WinForms.Guna2DataGridView();
-            this.Id = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.panelTitleBar = new System.Windows.Forms.Panel();
+            this.rjButton1 = new navbar.rjButton();
             this.Nom = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Prenom = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.CIN = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -47,15 +48,12 @@
             this.Pays = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Ville = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Adresse = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.panelTitleBar = new System.Windows.Forms.Panel();
-            this.rjButton1 = new navbar.rjButton();
             ((System.ComponentModel.ISupportInitialize)(this.guna2DataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // guna2DataGridView1
             // 
             dataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(209)))), ((int)(((byte)(196)))), ((int)(((byte)(233)))));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.Empty;
             dataGridViewCellStyle1.Padding = new System.Windows.Forms.Padding(5);
             this.guna2DataGridView1.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
             this.guna2DataGridView1.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
@@ -71,7 +69,6 @@
             this.guna2DataGridView1.ColumnHeadersHeight = 35;
             this.guna2DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
             this.guna2DataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.Id,
             this.Nom,
             this.Prenom,
             this.CIN,
@@ -136,90 +133,12 @@
             this.guna2DataGridView1.ThemeStyle.RowsStyle.SelectionForeColor = System.Drawing.Color.Black;
             this.guna2DataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.guna2DataGridView1_CellContentClick);
             // 
-            // Id
-            // 
-            this.Id.HeaderText = "Id";
-            this.Id.MinimumWidth = 6;
-            this.Id.Name = "Id";
-            // 
-            // Nom
-            // 
-            this.Nom.HeaderText = "Nom";
-            this.Nom.MinimumWidth = 6;
-            this.Nom.Name = "Nom";
-            // 
-            // Prenom
-            // 
-            this.Prenom.HeaderText = "Prenom";
-            this.Prenom.MinimumWidth = 6;
-            this.Prenom.Name = "Prenom";
-            // 
-            // CIN
-            // 
-            this.CIN.HeaderText = "CIN";
-            this.CIN.MinimumWidth = 6;
-            this.CIN.Name = "CIN";
-            // 
-            // Date_naissance
-            // 
-            this.Date_naissance.HeaderText = "Date_naissance";
-            this.Date_naissance.MinimumWidth = 6;
-            this.Date_naissance.Name = "Date_naissance";
-            // 
-            // Genre
-            // 
-            this.Genre.HeaderText = "Genre";
-            this.Genre.MinimumWidth = 6;
-            this.Genre.Name = "Genre";
-            // 
-            // Email
-            // 
-            this.Email.HeaderText = "Email";
-            this.Email.MinimumWidth = 6;
-            this.Email.Name = "Email";
-            // 
-            // Telephone
-            // 
-            this.Telephone.HeaderText = "Telephone";
-            this.Telephone.MinimumWidth = 6;
-            this.Telephone.Name = "Telephone";
-            // 
-            // Whatsapp
-            // 
-            this.Whatsapp.HeaderText = "Whatsapp";
-            this.Whatsapp.MinimumWidth = 6;
-            this.Whatsapp.Name = "Whatsapp";
-            // 
-            // Fixe
-            // 
-            this.Fixe.HeaderText = "Fixe";
-            this.Fixe.MinimumWidth = 6;
-            this.Fixe.Name = "Fixe";
-            // 
-            // Pays
-            // 
-            this.Pays.HeaderText = "Pays";
-            this.Pays.MinimumWidth = 6;
-            this.Pays.Name = "Pays";
-            // 
-            // Ville
-            // 
-            this.Ville.HeaderText = "Ville";
-            this.Ville.MinimumWidth = 6;
-            this.Ville.Name = "Ville";
-            // 
-            // Adresse
-            // 
-            this.Adresse.HeaderText = "Adresse";
-            this.Adresse.MinimumWidth = 6;
-            this.Adresse.Name = "Adresse";
-            // 
             // panelTitleBar
             // 
             this.panelTitleBar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(25)))), ((int)(((byte)(62)))));
             this.panelTitleBar.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelTitleBar.Location = new System.Drawing.Point(0, 0);
-            this.panelTitleBar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelTitleBar.Margin = new System.Windows.Forms.Padding(4);
             this.panelTitleBar.Name = "panelTitleBar";
             this.panelTitleBar.Size = new System.Drawing.Size(1204, 27);
             this.panelTitleBar.TabIndex = 75;
@@ -239,7 +158,7 @@
             this.rjButton1.Font = new System.Drawing.Font("Poppins SemiBold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rjButton1.ForeColor = System.Drawing.Color.Gainsboro;
             this.rjButton1.Location = new System.Drawing.Point(515, 418);
-            this.rjButton1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rjButton1.Margin = new System.Windows.Forms.Padding(4);
             this.rjButton1.Name = "rjButton1";
             this.rjButton1.Size = new System.Drawing.Size(160, 49);
             this.rjButton1.TabIndex = 2;
@@ -247,6 +166,78 @@
             this.rjButton1.TextColor = System.Drawing.Color.Gainsboro;
             this.rjButton1.UseVisualStyleBackColor = false;
             this.rjButton1.Click += new System.EventHandler(this.rjButton1_Click);
+            // 
+            // Nom
+            // 
+            this.Nom.HeaderText = "Last name";
+            this.Nom.MinimumWidth = 6;
+            this.Nom.Name = "Nom";
+            // 
+            // Prenom
+            // 
+            this.Prenom.HeaderText = "First name";
+            this.Prenom.MinimumWidth = 6;
+            this.Prenom.Name = "Prenom";
+            // 
+            // CIN
+            // 
+            this.CIN.HeaderText = "CIN";
+            this.CIN.MinimumWidth = 6;
+            this.CIN.Name = "CIN";
+            // 
+            // Date_naissance
+            // 
+            this.Date_naissance.HeaderText = "Date of birth";
+            this.Date_naissance.MinimumWidth = 6;
+            this.Date_naissance.Name = "Date_naissance";
+            // 
+            // Genre
+            // 
+            this.Genre.HeaderText = "Gender";
+            this.Genre.MinimumWidth = 6;
+            this.Genre.Name = "Genre";
+            // 
+            // Email
+            // 
+            this.Email.HeaderText = "Email";
+            this.Email.MinimumWidth = 6;
+            this.Email.Name = "Email";
+            // 
+            // Telephone
+            // 
+            this.Telephone.HeaderText = "Phone";
+            this.Telephone.MinimumWidth = 6;
+            this.Telephone.Name = "Telephone";
+            // 
+            // Whatsapp
+            // 
+            this.Whatsapp.HeaderText = "Whatsapp";
+            this.Whatsapp.MinimumWidth = 6;
+            this.Whatsapp.Name = "Whatsapp";
+            // 
+            // Fixe
+            // 
+            this.Fixe.HeaderText = "Fixe";
+            this.Fixe.MinimumWidth = 6;
+            this.Fixe.Name = "Fixe";
+            // 
+            // Pays
+            // 
+            this.Pays.HeaderText = "Country";
+            this.Pays.MinimumWidth = 6;
+            this.Pays.Name = "Pays";
+            // 
+            // Ville
+            // 
+            this.Ville.HeaderText = "City";
+            this.Ville.MinimumWidth = 6;
+            this.Ville.Name = "Ville";
+            // 
+            // Adresse
+            // 
+            this.Adresse.HeaderText = "Adresse";
+            this.Adresse.MinimumWidth = 6;
+            this.Adresse.Name = "Adresse";
             // 
             // Table
             // 
@@ -258,7 +249,7 @@
             this.Controls.Add(this.rjButton1);
             this.Controls.Add(this.guna2DataGridView1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Table";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Table";
@@ -273,7 +264,6 @@
         private Guna.UI2.WinForms.Guna2DataGridView guna2DataGridView1;
         private rjButton rjButton1;
         private System.Windows.Forms.Panel panelTitleBar;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Id;
         private System.Windows.Forms.DataGridViewTextBoxColumn Nom;
         private System.Windows.Forms.DataGridViewTextBoxColumn Prenom;
         private System.Windows.Forms.DataGridViewTextBoxColumn CIN;

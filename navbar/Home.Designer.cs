@@ -36,7 +36,6 @@
             this.rjButton1 = new navbar.rjButton();
             this.rjDatePicker2 = new navbar.RJDatePicker();
             this.rjDatePicker1 = new navbar.RJDatePicker();
-            this.rjComboBox6 = new navbar.RJComboBox();
             this.rjComboBox5 = new navbar.RJComboBox();
             this.rjComboBox4 = new navbar.RJComboBox();
             this.rjComboBox3 = new navbar.RJComboBox();
@@ -51,6 +50,7 @@
             this.rjTextBox3 = new navbar.RJTextBox();
             this.rjTextBox1 = new navbar.RJTextBox();
             this.rjTextBox2 = new navbar.RJTextBox();
+            this.rjComboBox6 = new navbar.RJComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.iconCurrentChildForm)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.iconPictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -62,11 +62,11 @@
             this.guna2HtmlLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel1.ForeColor = System.Drawing.Color.Gainsboro;
             this.guna2HtmlLabel1.Location = new System.Drawing.Point(625, 123);
-            this.guna2HtmlLabel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.guna2HtmlLabel1.Margin = new System.Windows.Forms.Padding(4);
             this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            this.guna2HtmlLabel1.Size = new System.Drawing.Size(190, 26);
+            this.guna2HtmlLabel1.Size = new System.Drawing.Size(121, 26);
             this.guna2HtmlLabel1.TabIndex = 29;
-            this.guna2HtmlLabel1.Text = "Date de Naissance :";
+            this.guna2HtmlLabel1.Text = "Date of birth:";
             // 
             // guna2HtmlLabel2
             // 
@@ -75,11 +75,11 @@
             this.guna2HtmlLabel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel2.ForeColor = System.Drawing.Color.Gainsboro;
             this.guna2HtmlLabel2.Location = new System.Drawing.Point(987, 437);
-            this.guna2HtmlLabel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.guna2HtmlLabel2.Margin = new System.Windows.Forms.Padding(4);
             this.guna2HtmlLabel2.Name = "guna2HtmlLabel2";
-            this.guna2HtmlLabel2.Size = new System.Drawing.Size(159, 26);
+            this.guna2HtmlLabel2.Size = new System.Drawing.Size(171, 26);
             this.guna2HtmlLabel2.TabIndex = 30;
-            this.guna2HtmlLabel2.Text = "Date inscription :";
+            this.guna2HtmlLabel2.Text = "Registration date :";
             // 
             // iconCurrentChildForm
             // 
@@ -90,7 +90,7 @@
             this.iconCurrentChildForm.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(249)))), ((int)(((byte)(118)))), ((int)(((byte)(176)))));
             this.iconCurrentChildForm.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconCurrentChildForm.Location = new System.Drawing.Point(247, 319);
-            this.iconCurrentChildForm.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.iconCurrentChildForm.Margin = new System.Windows.Forms.Padding(4);
             this.iconCurrentChildForm.Name = "iconCurrentChildForm";
             this.iconCurrentChildForm.Size = new System.Drawing.Size(33, 32);
             this.iconCurrentChildForm.TabIndex = 33;
@@ -105,7 +105,7 @@
             this.iconPictureBox1.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(249)))), ((int)(((byte)(118)))), ((int)(((byte)(176)))));
             this.iconPictureBox1.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconPictureBox1.Location = new System.Drawing.Point(247, 262);
-            this.iconPictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.iconPictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.iconPictureBox1.Name = "iconPictureBox1";
             this.iconPictureBox1.Size = new System.Drawing.Size(33, 32);
             this.iconPictureBox1.TabIndex = 34;
@@ -127,13 +127,13 @@
             this.rjComboBox7.ListBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(33)))), ((int)(((byte)(74)))));
             this.rjComboBox7.ListTextColor = System.Drawing.Color.Gainsboro;
             this.rjComboBox7.Location = new System.Drawing.Point(625, 213);
-            this.rjComboBox7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rjComboBox7.Margin = new System.Windows.Forms.Padding(4);
             this.rjComboBox7.MinimumSize = new System.Drawing.Size(267, 37);
             this.rjComboBox7.Name = "rjComboBox7";
             this.rjComboBox7.Padding = new System.Windows.Forms.Padding(1);
             this.rjComboBox7.Size = new System.Drawing.Size(291, 39);
             this.rjComboBox7.TabIndex = 32;
-            this.rjComboBox7.Texts = "Genre";
+            this.rjComboBox7.Texts = "Gender";
             // 
             // rjButton1
             // 
@@ -150,7 +150,7 @@
             this.rjButton1.ForeColor = System.Drawing.Color.Gainsboro;
             this.rjButton1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.rjButton1.Location = new System.Drawing.Point(680, 528);
-            this.rjButton1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rjButton1.Margin = new System.Windows.Forms.Padding(4);
             this.rjButton1.Name = "rjButton1";
             this.rjButton1.Size = new System.Drawing.Size(236, 49);
             this.rjButton1.TabIndex = 31;
@@ -166,7 +166,7 @@
             this.rjDatePicker2.BorderSize = 1;
             this.rjDatePicker2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.rjDatePicker2.Location = new System.Drawing.Point(987, 469);
-            this.rjDatePicker2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rjDatePicker2.Margin = new System.Windows.Forms.Padding(4);
             this.rjDatePicker2.MinimumSize = new System.Drawing.Size(4, 35);
             this.rjDatePicker2.Name = "rjDatePicker2";
             this.rjDatePicker2.Size = new System.Drawing.Size(292, 35);
@@ -182,34 +182,13 @@
             this.rjDatePicker1.BorderSize = 1;
             this.rjDatePicker1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
             this.rjDatePicker1.Location = new System.Drawing.Point(625, 155);
-            this.rjDatePicker1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rjDatePicker1.Margin = new System.Windows.Forms.Padding(4);
             this.rjDatePicker1.MinimumSize = new System.Drawing.Size(4, 35);
             this.rjDatePicker1.Name = "rjDatePicker1";
             this.rjDatePicker1.Size = new System.Drawing.Size(289, 35);
             this.rjDatePicker1.SkinColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(33)))), ((int)(((byte)(74)))));
             this.rjDatePicker1.TabIndex = 27;
             this.rjDatePicker1.TextColor = System.Drawing.Color.Gainsboro;
-            // 
-            // rjComboBox6
-            // 
-            this.rjComboBox6.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.rjComboBox6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(33)))), ((int)(((byte)(74)))));
-            this.rjComboBox6.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(249)))), ((int)(((byte)(118)))), ((int)(((byte)(176)))));
-            this.rjComboBox6.BorderSize = 1;
-            this.rjComboBox6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.rjComboBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rjComboBox6.ForeColor = System.Drawing.Color.Gainsboro;
-            this.rjComboBox6.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(249)))), ((int)(((byte)(118)))), ((int)(((byte)(176)))));
-            this.rjComboBox6.ListBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(33)))), ((int)(((byte)(74)))));
-            this.rjComboBox6.ListTextColor = System.Drawing.Color.Gainsboro;
-            this.rjComboBox6.Location = new System.Drawing.Point(987, 389);
-            this.rjComboBox6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.rjComboBox6.MinimumSize = new System.Drawing.Size(267, 37);
-            this.rjComboBox6.Name = "rjComboBox6";
-            this.rjComboBox6.Padding = new System.Windows.Forms.Padding(1);
-            this.rjComboBox6.Size = new System.Drawing.Size(293, 41);
-            this.rjComboBox6.TabIndex = 26;
-            this.rjComboBox6.Texts = "Année Scolaire";
             // 
             // rjComboBox5
             // 
@@ -224,13 +203,13 @@
             this.rjComboBox5.ListBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(33)))), ((int)(((byte)(74)))));
             this.rjComboBox5.ListTextColor = System.Drawing.Color.Gainsboro;
             this.rjComboBox5.Location = new System.Drawing.Point(987, 341);
-            this.rjComboBox5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rjComboBox5.Margin = new System.Windows.Forms.Padding(4);
             this.rjComboBox5.MinimumSize = new System.Drawing.Size(267, 37);
             this.rjComboBox5.Name = "rjComboBox5";
             this.rjComboBox5.Padding = new System.Windows.Forms.Padding(1);
             this.rjComboBox5.Size = new System.Drawing.Size(293, 41);
             this.rjComboBox5.TabIndex = 25;
-            this.rjComboBox5.Texts = "Filiére";
+            this.rjComboBox5.Texts = "Subject field";
             // 
             // rjComboBox4
             // 
@@ -245,7 +224,7 @@
             this.rjComboBox4.ListBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(33)))), ((int)(((byte)(74)))));
             this.rjComboBox4.ListTextColor = System.Drawing.Color.Gainsboro;
             this.rjComboBox4.Location = new System.Drawing.Point(987, 294);
-            this.rjComboBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rjComboBox4.Margin = new System.Windows.Forms.Padding(4);
             this.rjComboBox4.MinimumSize = new System.Drawing.Size(267, 37);
             this.rjComboBox4.Name = "rjComboBox4";
             this.rjComboBox4.Padding = new System.Windows.Forms.Padding(1);
@@ -266,7 +245,7 @@
             this.rjComboBox3.ListBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(33)))), ((int)(((byte)(74)))));
             this.rjComboBox3.ListTextColor = System.Drawing.Color.Gainsboro;
             this.rjComboBox3.Location = new System.Drawing.Point(987, 247);
-            this.rjComboBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rjComboBox3.Margin = new System.Windows.Forms.Padding(4);
             this.rjComboBox3.MinimumSize = new System.Drawing.Size(267, 37);
             this.rjComboBox3.Name = "rjComboBox3";
             this.rjComboBox3.Padding = new System.Windows.Forms.Padding(1);
@@ -288,13 +267,13 @@
             this.rjComboBox2.ListBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(33)))), ((int)(((byte)(74)))));
             this.rjComboBox2.ListTextColor = System.Drawing.Color.Gainsboro;
             this.rjComboBox2.Location = new System.Drawing.Point(987, 201);
-            this.rjComboBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rjComboBox2.Margin = new System.Windows.Forms.Padding(4);
             this.rjComboBox2.MinimumSize = new System.Drawing.Size(267, 37);
             this.rjComboBox2.Name = "rjComboBox2";
             this.rjComboBox2.Padding = new System.Windows.Forms.Padding(1);
             this.rjComboBox2.Size = new System.Drawing.Size(293, 39);
             this.rjComboBox2.TabIndex = 20;
-            this.rjComboBox2.Texts = "Villes";
+            this.rjComboBox2.Texts = "City";
             // 
             // rjComboBox1
             // 
@@ -309,13 +288,13 @@
             this.rjComboBox1.ListBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(33)))), ((int)(((byte)(74)))));
             this.rjComboBox1.ListTextColor = System.Drawing.Color.Gainsboro;
             this.rjComboBox1.Location = new System.Drawing.Point(987, 154);
-            this.rjComboBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rjComboBox1.Margin = new System.Windows.Forms.Padding(4);
             this.rjComboBox1.MinimumSize = new System.Drawing.Size(267, 37);
             this.rjComboBox1.Name = "rjComboBox1";
             this.rjComboBox1.Padding = new System.Windows.Forms.Padding(1);
             this.rjComboBox1.Size = new System.Drawing.Size(293, 39);
             this.rjComboBox1.TabIndex = 19;
-            this.rjComboBox1.Texts = "Pays";
+            this.rjComboBox1.Texts = "Country";
             this.rjComboBox1.OnSelectedIndexChanged += new System.EventHandler(this.rjComboBox1_OnSelectedIndexChanged);
             // 
             // rjTextBox9
@@ -496,7 +475,7 @@
             this.rjTextBox1.Padding = new System.Windows.Forms.Padding(13, 9, 13, 9);
             this.rjTextBox1.PasswordChar = false;
             this.rjTextBox1.PlaceholderColor = System.Drawing.Color.Gainsboro;
-            this.rjTextBox1.PlaceholderText = "Nom";
+            this.rjTextBox1.PlaceholderText = "First name";
             this.rjTextBox1.Size = new System.Drawing.Size(291, 39);
             this.rjTextBox1.TabIndex = 11;
             this.rjTextBox1.Tag = "Nom";
@@ -520,12 +499,33 @@
             this.rjTextBox2.Padding = new System.Windows.Forms.Padding(13, 9, 13, 9);
             this.rjTextBox2.PasswordChar = false;
             this.rjTextBox2.PlaceholderColor = System.Drawing.Color.Gainsboro;
-            this.rjTextBox2.PlaceholderText = "Prenom";
+            this.rjTextBox2.PlaceholderText = "Last name";
             this.rjTextBox2.Size = new System.Drawing.Size(291, 39);
             this.rjTextBox2.TabIndex = 10;
             this.rjTextBox2.Tag = "Prenom";
             this.rjTextBox2.Texts = "";
             this.rjTextBox2.UnderlinedStyle = false;
+            // 
+            // rjComboBox6
+            // 
+            this.rjComboBox6.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.rjComboBox6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(33)))), ((int)(((byte)(74)))));
+            this.rjComboBox6.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(249)))), ((int)(((byte)(118)))), ((int)(((byte)(176)))));
+            this.rjComboBox6.BorderSize = 1;
+            this.rjComboBox6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.rjComboBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rjComboBox6.ForeColor = System.Drawing.Color.Gainsboro;
+            this.rjComboBox6.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(249)))), ((int)(((byte)(118)))), ((int)(((byte)(176)))));
+            this.rjComboBox6.ListBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(33)))), ((int)(((byte)(74)))));
+            this.rjComboBox6.ListTextColor = System.Drawing.Color.Gainsboro;
+            this.rjComboBox6.Location = new System.Drawing.Point(987, 389);
+            this.rjComboBox6.Margin = new System.Windows.Forms.Padding(4);
+            this.rjComboBox6.MinimumSize = new System.Drawing.Size(267, 37);
+            this.rjComboBox6.Name = "rjComboBox6";
+            this.rjComboBox6.Padding = new System.Windows.Forms.Padding(1);
+            this.rjComboBox6.Size = new System.Drawing.Size(293, 41);
+            this.rjComboBox6.TabIndex = 26;
+            this.rjComboBox6.Texts = "School year";
             // 
             // Home
             // 
@@ -557,7 +557,7 @@
             this.Controls.Add(this.rjTextBox1);
             this.Controls.Add(this.rjTextBox2);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Home";
             this.Text = "Add";
             this.Load += new System.EventHandler(this.Home_Load);
@@ -583,7 +583,6 @@
         private RJComboBox rjComboBox3;
         private RJComboBox rjComboBox4;
         private RJComboBox rjComboBox5;
-        private RJComboBox rjComboBox6;
         private RJDatePicker rjDatePicker1;
         private RJDatePicker rjDatePicker2;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel1;
@@ -592,5 +591,6 @@
         private RJComboBox rjComboBox7;
         private FontAwesome.Sharp.IconPictureBox iconCurrentChildForm;
         private FontAwesome.Sharp.IconPictureBox iconPictureBox1;
+        private RJComboBox rjComboBox6;
     }
 }

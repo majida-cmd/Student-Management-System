@@ -241,7 +241,7 @@
             this.iconButton2.Padding = new System.Windows.Forms.Padding(13, 0, 27, 0);
             this.iconButton2.Size = new System.Drawing.Size(293, 74);
             this.iconButton2.TabIndex = 2;
-            this.iconButton2.Text = "Assiduite";
+            this.iconButton2.Text = "attendance";
             this.iconButton2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.iconButton2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.iconButton2.UseVisualStyleBackColor = true;
