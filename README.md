@@ -25,7 +25,7 @@ The system also allows **students** to view their personal information, change t
 - Enter and review academic performance
 - Management of grades
 > **This is the Admin's side:**
-
+![Home](https://github.com/majda-dev/Student-Management-System/assets/112486265/60514823-371c-4b4b-bcac-52ce777ab0c4)
 
 ### Student
 - Review personal information
