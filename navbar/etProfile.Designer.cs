@@ -56,7 +56,7 @@
             this.ShowPsw.CheckMarkColor = System.Drawing.Color.Black;
             this.ShowPsw.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold);
             this.ShowPsw.ForeColor = System.Drawing.Color.Gainsboro;
-            this.ShowPsw.Location = new System.Drawing.Point(440, 265);
+            this.ShowPsw.Location = new System.Drawing.Point(439, 324);
             this.ShowPsw.Margin = new System.Windows.Forms.Padding(4);
             this.ShowPsw.Name = "ShowPsw";
             this.ShowPsw.Size = new System.Drawing.Size(142, 21);
@@ -83,15 +83,16 @@
             this.guna2TextBox4.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
             this.guna2TextBox4.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(33)))), ((int)(((byte)(74)))));
             this.guna2TextBox4.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2TextBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2TextBox4.ForeColor = System.Drawing.Color.Gainsboro;
             this.guna2TextBox4.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2TextBox4.Location = new System.Drawing.Point(397, 197);
+            this.guna2TextBox4.Location = new System.Drawing.Point(396, 256);
             this.guna2TextBox4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.guna2TextBox4.Name = "guna2TextBox4";
             this.guna2TextBox4.PasswordChar = '*';
             this.guna2TextBox4.PlaceholderForeColor = System.Drawing.Color.Gainsboro;
             this.guna2TextBox4.PlaceholderText = "Password";
+            this.guna2TextBox4.ReadOnly = true;
             this.guna2TextBox4.SelectedText = "";
             this.guna2TextBox4.Size = new System.Drawing.Size(370, 44);
             this.guna2TextBox4.Style = Guna.UI2.WinForms.Enums.TextBoxStyle.Material;
@@ -103,7 +104,7 @@
             this.guna2HtmlLabel5.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel5.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel5.ForeColor = System.Drawing.Color.Gainsboro;
-            this.guna2HtmlLabel5.Location = new System.Drawing.Point(397, 356);
+            this.guna2HtmlLabel5.Location = new System.Drawing.Point(396, 415);
             this.guna2HtmlLabel5.Name = "guna2HtmlLabel5";
             this.guna2HtmlLabel5.Padding = new System.Windows.Forms.Padding(20);
             this.guna2HtmlLabel5.Size = new System.Drawing.Size(179, 67);
@@ -117,7 +118,7 @@
             this.guna2HtmlLabel8.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel8.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel8.ForeColor = System.Drawing.Color.Gainsboro;
-            this.guna2HtmlLabel8.Location = new System.Drawing.Point(327, 443);
+            this.guna2HtmlLabel8.Location = new System.Drawing.Point(326, 502);
             this.guna2HtmlLabel8.Name = "guna2HtmlLabel8";
             this.guna2HtmlLabel8.Padding = new System.Windows.Forms.Padding(20);
             this.guna2HtmlLabel8.Size = new System.Drawing.Size(255, 67);
@@ -131,7 +132,7 @@
             this.guna2HtmlLabel9.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel9.Font = new System.Drawing.Font("Microsoft Tai Le", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(138)))), ((int)(((byte)(114)))));
-            this.guna2HtmlLabel9.Location = new System.Drawing.Point(907, 368);
+            this.guna2HtmlLabel9.Location = new System.Drawing.Point(906, 427);
             this.guna2HtmlLabel9.Name = "guna2HtmlLabel9";
             this.guna2HtmlLabel9.Padding = new System.Windows.Forms.Padding(15);
             this.guna2HtmlLabel9.Size = new System.Drawing.Size(130, 55);
@@ -146,7 +147,7 @@
             this.guna2HtmlLabel6.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel6.Font = new System.Drawing.Font("Microsoft Tai Le", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(138)))), ((int)(((byte)(114)))));
-            this.guna2HtmlLabel6.Location = new System.Drawing.Point(898, 453);
+            this.guna2HtmlLabel6.Location = new System.Drawing.Point(897, 512);
             this.guna2HtmlLabel6.Name = "guna2HtmlLabel6";
             this.guna2HtmlLabel6.Padding = new System.Windows.Forms.Padding(20, 20, 30, 30);
             this.guna2HtmlLabel6.Size = new System.Drawing.Size(249, 75);
@@ -159,33 +160,34 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label1.Location = new System.Drawing.Point(479, 55);
+            this.label1.Location = new System.Drawing.Point(621, 105);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(132, 32);
+            this.label1.Size = new System.Drawing.Size(139, 32);
             this.label1.TabIndex = 76;
             this.label1.Text = "Welcome";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label2.Location = new System.Drawing.Point(637, 55);
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.SystemColors.ActiveCaption;
+            this.label2.Location = new System.Drawing.Point(865, 105);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(98, 32);
+            this.label2.Size = new System.Drawing.Size(101, 36);
             this.label2.TabIndex = 77;
             this.label2.Text = "label2";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label3.Location = new System.Drawing.Point(798, 55);
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.SystemColors.ActiveCaption;
+            this.label3.Location = new System.Drawing.Point(786, 105);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(98, 32);
+            this.label3.Size = new System.Drawing.Size(101, 36);
             this.label3.TabIndex = 77;
             this.label3.Text = "label3";
             // 
@@ -201,7 +203,7 @@
             this.rjButton1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.rjButton1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rjButton1.ForeColor = System.Drawing.Color.Gainsboro;
-            this.rjButton1.Location = new System.Drawing.Point(647, 515);
+            this.rjButton1.Location = new System.Drawing.Point(646, 574);
             this.rjButton1.Margin = new System.Windows.Forms.Padding(4);
             this.rjButton1.Name = "rjButton1";
             this.rjButton1.Size = new System.Drawing.Size(196, 48);
@@ -219,11 +221,12 @@
             this.rjButton2.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(249)))), ((int)(((byte)(118)))), ((int)(((byte)(176)))));
             this.rjButton2.BorderRadius = 10;
             this.rjButton2.BorderSize = 1;
+            this.rjButton2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.rjButton2.FlatAppearance.BorderSize = 0;
             this.rjButton2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.rjButton2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rjButton2.ForeColor = System.Drawing.Color.Gainsboro;
-            this.rjButton2.Location = new System.Drawing.Point(837, 172);
+            this.rjButton2.Location = new System.Drawing.Point(836, 231);
             this.rjButton2.Margin = new System.Windows.Forms.Padding(4);
             this.rjButton2.Name = "rjButton2";
             this.rjButton2.Padding = new System.Windows.Forms.Padding(2);
@@ -243,9 +246,9 @@
             this.rjTextBox3.BorderRadius = 5;
             this.rjTextBox3.BorderSize = 2;
             this.rjTextBox3.Enabled = false;
-            this.rjTextBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rjTextBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rjTextBox3.ForeColor = System.Drawing.Color.Gainsboro;
-            this.rjTextBox3.Location = new System.Drawing.Point(397, 115);
+            this.rjTextBox3.Location = new System.Drawing.Point(396, 174);
             this.rjTextBox3.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);
             this.rjTextBox3.Multiline = false;
             this.rjTextBox3.Name = "rjTextBox3";
@@ -253,7 +256,7 @@
             this.rjTextBox3.PasswordChar = false;
             this.rjTextBox3.PlaceholderColor = System.Drawing.Color.Gainsboro;
             this.rjTextBox3.PlaceholderText = "Email";
-            this.rjTextBox3.Size = new System.Drawing.Size(370, 37);
+            this.rjTextBox3.Size = new System.Drawing.Size(370, 41);
             this.rjTextBox3.TabIndex = 66;
             this.rjTextBox3.Texts = "";
             this.rjTextBox3.UnderlinedStyle = true;
@@ -268,7 +271,7 @@
             this.rjTextBox2.BorderSize = 2;
             this.rjTextBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rjTextBox2.ForeColor = System.Drawing.Color.Gainsboro;
-            this.rjTextBox2.Location = new System.Drawing.Point(584, 443);
+            this.rjTextBox2.Location = new System.Drawing.Point(583, 502);
             this.rjTextBox2.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);
             this.rjTextBox2.Multiline = false;
             this.rjTextBox2.Name = "rjTextBox2";
@@ -292,7 +295,7 @@
             this.rjTextBox1.BorderSize = 2;
             this.rjTextBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rjTextBox1.ForeColor = System.Drawing.Color.Gainsboro;
-            this.rjTextBox1.Location = new System.Drawing.Point(584, 355);
+            this.rjTextBox1.Location = new System.Drawing.Point(583, 414);
             this.rjTextBox1.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);
             this.rjTextBox1.Multiline = false;
             this.rjTextBox1.Name = "rjTextBox1";

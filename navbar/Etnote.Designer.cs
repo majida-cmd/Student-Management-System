@@ -32,14 +32,14 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             this.guna2DataGridView1 = new Guna.UI2.WinForms.Guna2DataGridView();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.Matiere = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Note_exam = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Coeff_exam = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Note_controle = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Coeff_controle = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Note_generale = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.guna2DataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -74,7 +74,7 @@
             dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.guna2DataGridView1.DefaultCellStyle = dataGridViewCellStyle3;
             this.guna2DataGridView1.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(193)))), ((int)(((byte)(232)))));
-            this.guna2DataGridView1.Location = new System.Drawing.Point(3, 52);
+            this.guna2DataGridView1.Location = new System.Drawing.Point(297, 103);
             this.guna2DataGridView1.Name = "guna2DataGridView1";
             this.guna2DataGridView1.RowHeadersVisible = false;
             this.guna2DataGridView1.RowHeadersWidth = 51;
@@ -103,28 +103,6 @@
             this.guna2DataGridView1.ThemeStyle.RowsStyle.Height = 24;
             this.guna2DataGridView1.ThemeStyle.RowsStyle.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(123)))), ((int)(((byte)(207)))));
             this.guna2DataGridView1.ThemeStyle.RowsStyle.SelectionForeColor = System.Drawing.Color.Black;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label1.Location = new System.Drawing.Point(365, 389);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(138, 29);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "Final score:";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Proxima Nova Rg", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.MediumPurple;
-            this.label2.Location = new System.Drawing.Point(564, 384);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(97, 35);
-            this.label2.TabIndex = 3;
-            this.label2.Text = "label2";
             // 
             // Matiere
             // 
@@ -161,6 +139,28 @@
             this.Note_generale.HeaderText = "Final score";
             this.Note_generale.MinimumWidth = 6;
             this.Note_generale.Name = "Note_generale";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.label1.Location = new System.Drawing.Point(730, 410);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(138, 29);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "Final score:";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Proxima Nova Rg", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.Color.MediumPurple;
+            this.label2.Location = new System.Drawing.Point(886, 408);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(97, 35);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "label2";
             // 
             // Etnote
             // 
