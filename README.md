@@ -27,15 +27,15 @@ The system also allows **students** to view their personal information, change t
 > **This is the Admin's side:**
 ![Home](https://github.com/majda-dev/Student-Management-System/assets/112486265/60514823-371c-4b4b-bcac-52ce777ab0c4)
 
-![Add](https://github.com/majda-dev/Student-Management-System/assets/112486265/a71551c9-d2e7-40f2-b783-2d51f9bc6ef8)
+> ![Add](https://github.com/majda-dev/Student-Management-System/assets/112486265/a71551c9-d2e7-40f2-b783-2d51f9bc6ef8)
 
-![EtList](https://github.com/majda-dev/Student-Management-System/assets/112486265/99a055da-6eb9-40f8-969f-1c7761223173)
+> ![EtList](https://github.com/majda-dev/Student-Management-System/assets/112486265/99a055da-6eb9-40f8-969f-1c7761223173)
 
-![NoteADM](https://github.com/majda-dev/Student-Management-System/assets/112486265/948f7419-c7c3-43a7-8f85-e7ddcbb43b18)
+> ![NoteADM](https://github.com/majda-dev/Student-Management-System/assets/112486265/948f7419-c7c3-43a7-8f85-e7ddcbb43b18)
 
-![update](https://github.com/majda-dev/Student-Management-System/assets/112486265/202ee5ed-0c52-4b2c-a2e7-25ecc4fcb392)
+> ![update](https://github.com/majda-dev/Student-Management-System/assets/112486265/202ee5ed-0c52-4b2c-a2e7-25ecc4fcb392)
 
-![assiduiteADM](https://github.com/majda-dev/Student-Management-System/assets/112486265/e4bdb64a-6506-42d1-909b-1917a5ef4394)
+> ![assiduiteADM](https://github.com/majda-dev/Student-Management-System/assets/112486265/e4bdb64a-6506-42d1-909b-1917a5ef4394)
 
 ### Student
 - Review personal information
@@ -43,9 +43,9 @@ The system also allows **students** to view their personal information, change t
 - Review grades
 > **This is the Student's side:**
 ![profileEt](https://github.com/majda-dev/Student-Management-System/assets/112486265/b26a1122-6acd-4fc6-b911-e6f936ac8f41)
-> 
-![assiduite](https://github.com/majda-dev/Student-Management-System/assets/112486265/ca90ab7e-6152-4b5a-88d1-f9f9a542b81b)
 
-![Etnote](https://github.com/majda-dev/Student-Management-System/assets/112486265/0789c285-245a-4dcd-93df-d522206e8ec1)
+> ![assiduite](https://github.com/majda-dev/Student-Management-System/assets/112486265/ca90ab7e-6152-4b5a-88d1-f9f9a542b81b)
+
+> ![Etnote](https://github.com/majda-dev/Student-Management-System/assets/112486265/0789c285-245a-4dcd-93df-d522206e8ec1)
 
 
