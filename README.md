@@ -18,12 +18,14 @@ The system also allows **students** to view their personal information, change t
 - Access
 
 # Features
+### Login
+![Login](https://github.com/majda-dev/Student-Management-System/assets/112486265/4a8936cf-401b-4d9e-842f-944635cb76d1)
 ### Admin
 - Manage student information **(CRUD)**
 - Enter and review academic performance
 - Management of grades
 > **This is the Admin's side:**
-![Login](https://github.com/majda-dev/Student-Management-System/assets/112486265/4a8936cf-401b-4d9e-842f-944635cb76d1)
+
 
 ### Student
 - Review personal information
