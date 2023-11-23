@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://github.com/majda-dev/Student-Management-System/blob/main/c%23.png.png?raw=true"
+    src="https://github.com/majda-dev/Student-Management-System/blob/main/c%23.png?raw=true"
     alt="C#'s custom image"
    width='120';"
   />
