@@ -37,4 +37,6 @@ The system also allows **students** to view their personal information, change t
 - Change password
 - Review grades
 > **This is the Student's side:**
-https://github.com/majda-dev/Student-Management-System/assets/112486265/ef793eca-1d53-4d2e-8e57-5b78234077b6
+> ![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/majda-dev/Student-Management-System/assets/112486265/b0a2e160-ca20-4e53-8adf-f5c5f1a471c8)https://github.com/majda-dev/Student-Management-System/assets/112486265/b0a2e160-ca20-4e53-8adf-f5c5f1a471c8)
+
+
